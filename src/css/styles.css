@@ -27,9 +27,12 @@
   padding: 20px;
   display: flex;
   flex-direction: column;
+  font-size: 20px;
+  line-height: 40px;
 }
 
 .nav-link {
   display: block;
   padding: 20px;
+  font-size: 20px;
 }
