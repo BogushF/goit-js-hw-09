@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers2.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers2.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formData = {\n  email: '',\n  message: '',\n};\nconst STORAGE_KEY = 'feedback-form-state';\nconst feedbackForm = document.querySelector('.feedback-form');\n"],"names":[],"mappings":"wFAKqB,SAAS,cAAc,gBAAgB"}
